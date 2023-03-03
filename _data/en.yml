@@ -1,9 +1,10 @@
 ---
 whatWeDo: What We Do
+meetUp: Join Us
 events: Events
 contact: Contact
 team: Who We Are
-tellMeMore: Join Us
+tellMeMore: ResBaz AZ 2023 Festival!
 
 activitiesSubheading: 'Need help now?  Want to talk?  Go post in our Gitter: <a href="https://gitter.im/resbaz/Arizona" target="_blank">resbaz/Arizona</a>'
 activities:
@@ -24,13 +25,13 @@ activities:
 
 Ourevents:
   - title: Coffee and Code
-    description: "<strong>Where:</strong> <a href=\"https://gather.town/app/9Wynt7g1ozDD9S7b/ResBaz\">Gather.town</a><br>
-    <strong>When:</strong> 9AM - 10AM, every Tuesday<br>
+    description: "<strong>Where:</strong> <a href=\"https://union.arizona.edu/dining/other/slotcanyon\">Slot Canyon Cafe in ENR2</a><br>
+    <strong>When:</strong> 8.30AM - 10.30AM, every Wednesday<br>
     <strong>What:</strong> Whether you're debugging code or need ideas for how to
     introduce programming into your research, Coffee and Code is a great place to receive help
     and share knowledge! No specific problem? No worries -- join us at Coffee and Code to chit chat
     with other researchers in the morning. Coffee and Code is the
-    best way to start your Tuesday!"
+    best way to start your Wednesday!"
     icon: fa-coffee
   - title: Hacky Hour
     description: "<strong>Where:</strong> Snakes & Lattes (University Blvd)<br>
@@ -52,6 +53,9 @@ data science!"
      <a href='https://www.meetup.com/Tucson-Python-Meetup/' target='_blank'>https://www.meetup.com/Tucson-Python-Meetup/</a></p>"
     icon: fa-calendar
 
+meetUp: Meet up with us
+joinusSubheading: ''
+joinus: Join Us
 
 eventPlaceholder: Nothing yet! Propose an event here.
 eventsSubheading: '<p style="line-height: 1.25em;">Stay up to date on announcements at our Twitter: <a href="https://twitter.com/ResBazAZ" target="_blank">@ResBazAZ</a><br>
